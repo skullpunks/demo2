@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.b8ef373f.css",
-    "main.js": "/static/js/main.f318eea2.js",
+    "main.css": "/static/css/main.1f6d2004.css",
+    "main.js": "/static/js/main.d4739aa0.js",
     "static/media/indexx500.gif": "/static/media/indexx500.c38e003cdfd29da1ece4.gif",
-    "static/media/welcome-logo.svg": "/static/media/welcome-logo.6f632117f706ce9332744c2e180c340a.svg",
-    "static/media/etherum-icon.svg": "/static/media/etherum-icon.8e9e0613fe2a1f2494781516fcbc24ec.svg",
-    "static/media/logo.svg": "/static/media/logo.2a8f21636e52c8ca08a1862c2ed90431.svg",
-    "static/media/bnb-icon.svg": "/static/media/bnb-icon.084b38d8ab0b7b349670cf9f3d09dfaf.svg",
-    "static/media/bitcoin-icon.svg": "/static/media/bitcoin-icon.5074d0172ce0f6492cc224046c7fda8d.svg",
-    "static/media/stripe-icon.svg": "/static/media/stripe-icon.a4173a201d24cee42ca34acd8d2bb931.svg",
-    "static/media/bottom-arrow.svg": "/static/media/bottom-arrow.573d39ffb5445df778e00a51b8e0af15.svg",
-    "static/media/busd-icon.svg": "/static/media/busd-icon.1063a59a434dda7d4a3e9fb43f515fa2.svg",
+    "static/media/welcome-logo.svg": "/static/media/welcome-logo.22b1cb07184505e0d35ca5861c72c8a2.svg",
+    "static/media/etherum-icon.svg": "/static/media/etherum-icon.4040a5085cfdce4aeae43d229f974467.svg",
+    "static/media/logo.svg": "/static/media/logo.c93f5f5e43efcf560829e8353797b9c0.svg",
+    "static/media/bnb-icon.svg": "/static/media/bnb-icon.b6d3be527e479f603b804254b559090c.svg",
+    "static/media/bitcoin-icon.svg": "/static/media/bitcoin-icon.c704969957cf5572c1f0ad5ce18a3bce.svg",
+    "static/media/stripe-icon.svg": "/static/media/stripe-icon.641f02bcb0ccf0ee2b1441d28e38cba5.svg",
+    "static/media/bottom-arrow.svg": "/static/media/bottom-arrow.9cf7d0c8857494c7ac3d293b58930502.svg",
+    "static/media/busd-icon.svg": "/static/media/busd-icon.f2a394e97a60eaf49851474c19382ab4.svg",
     "index.html": "/index.html",
-    "main.b8ef373f.css.map": "/static/css/main.b8ef373f.css.map",
-    "main.f318eea2.js.map": "/static/js/main.f318eea2.js.map"
+    "main.1f6d2004.css.map": "/static/css/main.1f6d2004.css.map",
+    "main.d4739aa0.js.map": "/static/js/main.d4739aa0.js.map"
   },
   "entrypoints": [
-    "static/css/main.b8ef373f.css",
-    "static/js/main.f318eea2.js"
+    "static/css/main.1f6d2004.css",
+    "static/js/main.d4739aa0.js"
   ]
 }
